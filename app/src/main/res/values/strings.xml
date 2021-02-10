@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SeniorDesignAppV1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--my strings-->
+    <string name="UMICH_label">Please enter your UM UniqueName and Password: </string>
+    <string name="UMICH_name_hint">UniqueName (e.g jonsmith)</string>
+    <string name="UMICH_password_hint">Password (e.g. 12345678)</string>
+    <string name="next_button_text">NEXT STEP</string>
+    <string name="register">Register</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="have_you_experienced">Have you experienced:</string>
+    <string name="have_you">Have you:</string>
+    <!--survey strings-->
+    <string name="bullet_list_item1">Fever over 100F?\n</string>
+    <string name="bullet_list_item2">New Shortness of Breath?\n</string>
+    <string name="bullet_list_item3">New Coughing?</string>
+
+    <string name="bullet_list_item4">Chills?\n</string>
+    <string name="bullet_list_item5">Muscle Ache?\n</string>
+    <string name="bullet_list_item6">Sore Throat?</string>
+
+    <string name="bullet_list_item7">Lost Sense of Taste or Smell?\n</string>
+    <string name="bullet_list_item8">New Headaches?\n</string>
+    <string name="bullet_list_item9">Being in Contact With Someone Who Has Tested Positive for COVID-19 in the Past 14 Days?</string>
+
+    <string name="survey_incorrect_text">You have answered the survey incorrectly. Please consult a doctor if you believe you have COVID-19.</string>
+
+    <!-- Third page text -->
+    <string name="third_page_text">Please take a temperature check on Campus, then proceed to scan the QR code you are presented with.</string>
+
+    <!-- Scanning page text -->
+    <string name="verified_message">You have been verified! Approach a door on Campus</string>
+    <string name="time_remaining_message">Time Remaining: </string>
+
+    <!-- Others -->
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">Excursion 1</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="ble_scanning_message">You have been verified to use Bluedoor. Your device is currently scanning for a compatible door.</string>
+    <string name="ble_not_scanning_message">You have been verified to use Bluedoor. However, scanning is currently disabled. If you wish to enable Scanning, please press the "Enable Scanning" button below.</string>
+    <string name="time_remaining">Time Remaining: </string>
+    <string name="scanning">Scanning..... </string>
+    <string name="not_scanning">Not Scanning</string>
+    <string name="enable_scan_message">Enable Scanning</string>
+    <string name="disable_scan_message">Disable Scanning</string>
+
+    <!--//Send message button-->
+    <string name="send_message_text">Send Message To Board</string>
+    <!--//RSSI Button-->
+    <string name="get_rssi_button">Get RSSI Sample</string>
+    <!--//Force Disconnect Button-->
+    <string name="force_disconnect">Force Disconnect</string>
+    <!--//RSSI Labels-->
+    <string name="ave_rssi_label">Moving Average RSSI: </string>
+    <string name="rssi_label">RSSI: </string>
+    <!--//RSSI value display -->
+    <string name="rssi_value_display">(INSERT RSSI READING HERE) </string>
+    <!--//sample counter label -->
+    <string name="samp_count_label">Number of Samples: </string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="continue_message">Continue</string>
+
+</resources>
